@@ -1,8 +1,8 @@
-### Hi there 👋
-# I am Ashirbad Behera
-
-- 🔭 I’m currently working on **React.js**
-- 🌱 I’m currently learning **Node.js**
+## Hi there, I am Ashirbad :snowflake: :v:
+- 🌱 I’m currently learning
+- React, nodeJs, backend :rocket:
+- Problem Solving
+- Data Structures :scroll:
 - 💬 Ask me about **Web Development / Anime**
 - 📫 How to reach me: [Email me](mailto:ashirbadbehera29@gmail.com)
 - 😄 Pronouns: **He/Him**
