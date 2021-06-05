@@ -1,10 +1,7 @@
 ## Hi there, I am Ashirbad :snowflake: :v:
-- 🌱 I’m currently learning
-- React, nodeJs, backend :rocket:
-- Problem Solving
-- Data Structures :scroll:
-- 💬 Ask me about **Web Development / Anime**
-- 📫 How to reach me: [Email me](mailto:ashirbadbehera29@gmail.com)
+- 🌱 I’m currently learning React, nodeJs, backend :rocket:
+- 💬 Ask me about **Web Development / Anime / tech**
+- 📫 Reach me at [Email](mailto:ashirbadbehera29@gmail.com)
 - 😄 Pronouns: **He/Him**
 
 
