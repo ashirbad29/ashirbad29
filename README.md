@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ashirbadbehera29@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 <p align="left">
 <a href="https://twitter.com/ashirbad_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashirbad_29" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashirbad29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashirbad29" height="30" width="40" /></a>
