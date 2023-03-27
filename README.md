@@ -1,14 +1,11 @@
-### Hey there! 👋
+###   Hello
 
-- 🌱 **Me:** A CS Undergraduate from Bhubaneshwar, India who loves exploring new technologies.
-- 😄 **Pronouns:** He/Him/His
-- 💬 **Ask me anything about:** Web development, Javascript, React, Anime
+- **Me:** A CS Undergraduate from Bhubaneshwar, India who loves exploring new technologies.
+- 💬 **Ask me anything about:** Tech, Frontend, Anime 
 - 🌍 **I’m currently working on:** Myself
-- 🌱 **I’m currently learning:** Next.js, Typescript, Figma
+- 🌱 **I’m currently learning:** About Myself
 
-### My Technology Stack and Tools 🔭
-
-<div style='display: flex;'>
+<!-- <div style='display: flex;'>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -33,8 +30,7 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
+ -->
 
-### Connect with Me 🤝 
-
-<a href="https://www.linkedin.com/in/ashirbad29/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/ashirbad_29"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ashirbad29/">LinkedIn</a>
+<a href="https://twitter.com/ashirbad_29">Twitter</a>
