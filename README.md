@@ -1,9 +1,6 @@
 ###   Hello
 
 - **Me:** A CS Undergraduate from Bhubaneshwar, India who loves exploring new technologies.
-- 💬 **Ask me anything about:** Tech, Frontend, Anime 
-- 🌍 **I’m currently working on:** Myself
-- 🌱 **I’m currently learning:** About Myself
 
 <!-- <div style='display: flex;'>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
